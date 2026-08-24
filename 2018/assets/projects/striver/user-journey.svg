@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1523px" height="999px" viewBox="0 0 1523 999" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="42" y="266" width="34" height="130"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="34" height="130" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="42" y="488" width="34" height="130"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="34" height="130" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-1">
+            <rect id="Rectangle-4" fill-opacity="0.331889719" fill="#D8D8D8" x="145" y="473" width="1289" height="167"></rect>
+            <rect id="Rectangle-4-Copy-2" fill-opacity="0.331889719" fill="#D8D8D8" x="145" y="807" width="1289" height="167"></rect>
+            <rect id="Rectangle-4-Copy" fill-opacity="0.663779438" fill="#D8D8D8" x="145" y="640" width="1289" height="167"></rect>
+            <polygon id="Rectangle-1" fill-opacity="0.653419384" fill="#FF6239" points="145 443 335.964844 443 352 457.917969 335.964844 472.739584 145 472.739583"></polygon>
+            <polygon id="Rectangle-1-Copy" fill-opacity="0.739555027" fill="#FF5339" points="358.671875 457.917969 342 443 532.964844 443 549 457.917969 532.964844 472.739584 342 472.739583"></polygon>
+            <polygon id="Rectangle-1-Copy-2" fill-opacity="0.84802423" fill="#FF5439" points="555.671875 457.917969 539 443 674.855469 443 690.890625 457.917969 674.855469 472.739584 539 472.739583"></polygon>
+            <text id="Get-the-idea" font-family="ClearSans-Bold, Clear Sans" font-size="15" font-weight="bold" fill="#FFFFFF">
+                <tspan x="207.106879" y="464">Get the idea</tspan>
+            </text>
+            <text id="Plan-the-race" font-family="ClearSans-Bold, Clear Sans" font-size="15" font-weight="bold" fill="#FFFFFF">
+                <tspan x="400.518012" y="464">Plan the race</tspan>
+            </text>
+            <text id="Travel-to" font-family="ClearSans-Bold, Clear Sans" font-size="15" font-weight="bold" fill="#FFFFFF">
+                <tspan x="584.430122" y="464">Travel to</tspan>
+            </text>
+            <polygon id="Rectangle-1-Copy-2" fill-opacity="0.95" fill="#FF5439" points="697.671875 457.917969 681 443 847.796875 443 863.832031 457.917969 847.796875 472.739584 681 472.739583"></polygon>
+            <polygon id="Rectangle-1-Copy-3" fill="#FF5439" points="870.671875 457.917969 854 443 1091.56641 443 1107.60156 457.917969 1091.56641 472.739584 854 472.739583"></polygon>
+            <polygon id="Rectangle-1-Copy-4" fill="#FF6E57" points="1114.67188 457.917969 1098 443 1268.01562 443 1284.05078 457.917969 1268.01562 472.739584 1098 472.739583"></polygon>
+            <polygon id="Rectangle-1-Copy-5" fill="#FF806C" points="1292.00271 457.917969 1275 443 1434 443 1434 472.739584 1275 472.739583"></polygon>
+            <text id="Prepare" font-family="ClearSans-Bold, Clear Sans" font-size="15" font-weight="bold" fill="#FFFFFF">
+                <tspan x="744.268256" y="464">Prepare</tspan>
+            </text>
+            <text id="Do-the-run" font-family="ClearSans-Bold, Clear Sans" font-size="15" font-weight="bold" fill="#FFFFFF">
+                <tspan x="944.849067" y="464">Do the run</tspan>
+            </text>
+            <text id="After-the-run" font-family="ClearSans-Bold, Clear Sans" font-size="15" font-weight="bold" fill="#FFFFFF">
+                <tspan x="1146.73749" y="464">After the run</tspan>
+            </text>
+            <text id="Return" font-family="ClearSans-Bold, Clear Sans" font-size="15" font-weight="bold" fill="#FFFFFF">
+                <tspan x="1331.37348" y="464">Return</tspan>
+            </text>
+            <path d="M159.101562,347.253906 C165.964844,333.359375 169.492187,324.671875 181.480469,324.671875 C193.46875,324.671875 186.957031,342.691406 201.765625,342.691406 C216.574219,342.691406 215.816406,311.199219 226.585937,311.199219 C237.355469,311.199219 231.949219,328.378906 248.972656,328.378906 C265.996094,328.378906 258.25,313.796875 273.019531,313.796875 C287.789062,313.796875 278.621094,331.777344 292.304687,331.777344 C305.988281,331.777344 297.058594,305.089844 314.039062,305.089844 C331.019531,305.089844 324.910156,328.378906 348.40625,328.378906 C371.902344,328.378906 340.804687,322.503906 416.460937,313.796875 C446.71714,310.314787 463.25,291.171875 518.074219,295.320312 C572.898437,299.46875 594.152344,318.585938 621.015625,318.585938 C679.809597,318.585938 699.976562,259.78125 742.011719,259.78125 C784.046875,259.78125 845.835937,296.1875 888.40625,274.234375" id="Path-1" stroke="#675855" stroke-width="2" stroke-dasharray="7"></path>
+            <circle id="Oval-1" fill="#FF987D" cx="159" cy="348" r="7"></circle>
+            <circle id="Oval-1-Copy" fill="#FF987D" cx="273" cy="314" r="7"></circle>
+            <circle id="Oval-1-Copy" fill="#FF806C" cx="414" cy="314" r="7"></circle>
+            <circle id="Oval-1-Copy" fill="#FF806C" cx="520" cy="295" r="7"></circle>
+            <circle id="Oval-1-Copy" fill="#FF6E57" cx="620" cy="318" r="7"></circle>
+            <circle id="Oval-1-Copy" fill="#FF6C55" cx="743" cy="260" r="7"></circle>
+            <text id="Touch-point" transform="translate(57.000000, 330.500000) rotate(-90.000000) translate(-57.000000, -330.500000) " font-family="ClearSans, Clear Sans" font-size="15" font-weight="normal" letter-spacing="0.88636446" fill="#F24040">
+                <tspan x="12.6474564" y="336.5">Touch point</tspan>
+            </text>
+            <text id="Perspectives" transform="translate(57.000000, 552.500000) rotate(-90.000000) translate(-57.000000, -552.500000) " font-family="ClearSans, Clear Sans" font-size="15" font-weight="normal" letter-spacing="0.88636446" fill="#F24040">
+                <tspan x="9.23796558" y="558.5">Perspectives</tspan>
+            </text>
+            <use id="Rectangle-2" stroke="#F34040" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+            <use id="Rectangle-2-Copy" stroke="#F34040" mask="url(#mask-4)" stroke-width="4" xlink:href="#path-3"></use>
+            <text id="Trigger-of-running-" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#FF8C55">
+                <tspan x="145" y="234">Trigger of running </tspan>
+            </text>
+            <text id="Pain-point-" font-family="ClearSans-Bold, Clear Sans" font-size="12" font-weight="bold" fill="#F24040">
+                <tspan x="166" y="665.597656">Pain point </tspan>
+            </text>
+            <text id="Pain-point--Copy" font-family="ClearSans-Bold, Clear Sans" font-size="12" font-weight="bold" fill="#F24040">
+                <tspan x="358" y="666">Pain point </tspan>
+            </text>
+            <text id="Pain-point--Copy-2" font-family="ClearSans-Bold, Clear Sans" font-size="12" font-weight="bold" fill="#F24040">
+                <tspan x="690" y="662">Pain point </tspan>
+            </text>
+            <text id="Pain-point--Copy-2" font-family="ClearSans-Bold, Clear Sans" font-size="12" font-weight="bold" fill="#F24040">
+                <tspan x="882" y="662">Pain point </tspan>
+            </text>
+            <text id="Pain-point--Copy-3" font-family="ClearSans-Bold, Clear Sans" font-size="12" font-weight="bold" fill="#F24040">
+                <tspan x="1108" y="662">Pain point </tspan>
+            </text>
+            <text id="Pain-point--Copy-4" font-family="ClearSans-Bold, Clear Sans" font-size="12" font-weight="bold" fill="#F24040">
+                <tspan x="1287" y="662">Pain point </tspan>
+            </text>
+            <text id="Solution-" font-family="ClearSans-Bold, Clear Sans" font-size="12" font-weight="bold" fill="#0AA4DA">
+                <tspan x="166" y="832">Solution </tspan>
+            </text>
+            <text id="Solution-" font-family="ClearSans-Bold, Clear Sans" font-size="12" font-weight="bold" fill="#0AA4DA">
+                <tspan x="358" y="832">Solution </tspan>
+            </text>
+            <text id="Solution-" font-family="ClearSans-Bold, Clear Sans" font-size="12" font-weight="bold" fill="#0AA4DA">
+                <tspan x="691" y="832">Solution </tspan>
+            </text>
+            <text id="Solution--Copy" font-family="ClearSans-Bold, Clear Sans" font-size="12" font-weight="bold" fill="#0AA4DA">
+                <tspan x="886" y="832">Solution </tspan>
+            </text>
+            <text id="Solution--Copy-2" font-family="ClearSans-Bold, Clear Sans" font-size="12" font-weight="bold" fill="#0AA4DA">
+                <tspan x="1111" y="832">Solution </tspan>
+            </text>
+            <text id="Solution--Copy-3" font-family="ClearSans-Bold, Clear Sans" font-size="12" font-weight="bold" fill="#0AA4DA">
+                <tspan x="1293" y="832">Solution </tspan>
+            </text>
+            <text id="People-" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#FF8C55">
+                <tspan x="228" y="361">People </tspan>
+            </text>
+            <text id="Planning-" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#FF8C55">
+                <tspan x="363" y="223">Planning </tspan>
+            </text>
+            <text id="Listen-from-friends," font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="145" y="253">Listen from friends, </tspan>
+                <tspan x="145" y="269">news, website, social </tspan>
+                <tspan x="145" y="285">media</tspan>
+            </text>
+            <text id="Recommend-races-from" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="228" y="380">Recommend races </tspan>
+                <tspan x="228" y="396">from friends</tspan>
+            </text>
+            <text id="Find-the-race-that-i" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="363" y="239">Find the race that is </tspan>
+                <tspan x="363" y="255">suitable for the user’s </tspan>
+                <tspan x="363" y="271">need</tspan>
+                <tspan x="363" y="287">Register for the race</tspan>
+            </text>
+            <text id="Prepare-" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#FF8C55">
+                <tspan x="503" y="331">Prepare </tspan>
+            </text>
+            <text id="Running-clothes" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="503" y="347">Running clothes</tspan>
+                <tspan x="503" y="363">Running shoes</tspan>
+                <tspan x="503" y="379">Gels</tspan>
+                <tspan x="503" y="395">GPS watch</tspan>
+                <tspan x="503" y="411">Running hat</tspan>
+                <tspan x="503" y="427">Buff</tspan>
+                <tspan x="503" y="443"></tspan>
+            </text>
+            <text id="Transit-" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#FF8C55">
+                <tspan x="607" y="250">Transit </tspan>
+            </text>
+            <text id="Expo-" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#FF8C55">
+                <tspan x="709" y="324">Expo </tspan>
+            </text>
+            <text id="GPS-Device-" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#FF8C55">
+                <tspan x="899" y="175">GPS Device </tspan>
+            </text>
+            <text id="Result-" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#FF8C55">
+                <tspan x="1098" y="332">Result </tspan>
+            </text>
+            <text id="Share-" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#FF8C55">
+                <tspan x="1329" y="360">Share </tspan>
+            </text>
+            <text id="Digital-Media" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#FF8C55">
+                <tspan x="1309" y="250">Digital Media</tspan>
+            </text>
+            <text id="Supplies" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#FF8C55">
+                <tspan x="919" y="398">Supplies</tspan>
+            </text>
+            <text id="Car,-train-or-plane" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="607" y="266">Car, train </tspan>
+                <tspan x="607" y="282">or plane</tspan>
+            </text>
+            <text id="Get-bib,-map,-shirt" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="709" y="340">Get bib, map, shirt</tspan>
+                <tspan x="709" y="356">Check out shuttle time</tspan>
+            </text>
+            <text id="Check-pace,-heart-ra" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="899" y="191">Check pace, heart </tspan>
+                <tspan x="899" y="207">rate, time</tspan>
+            </text>
+            <text id="Check-result" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="1098" y="348">Check result</tspan>
+                <tspan x="1098" y="364">Join after party</tspan>
+            </text>
+            <text id="Share-with-friends-a" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="1329" y="376">Share with friends </tspan>
+                <tspan x="1329" y="392">and family</tspan>
+            </text>
+            <text id="Pictures-from-the-ev" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="1309" y="266">Pictures from the </tspan>
+                <tspan x="1309" y="282">event website</tspan>
+            </text>
+            <text id="Gel,-water,-electrol" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="919" y="414">Gel, water, electrolyte</tspan>
+            </text>
+            <text id="---Learn-about-what-" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="166" y="501">-  Learn about what is marathon </tspan>
+                <tspan x="166" y="517">from friends, websites, TV and </tspan>
+                <tspan x="166" y="533">other medias</tspan>
+                <tspan x="166" y="549">-  Learn about marathon </tspan>
+                <tspan x="166" y="565">expericne from other runners</tspan>
+                <tspan x="166" y="581">-  Find running information from </tspan>
+                <tspan x="166" y="597">social media group, website, </tspan>
+                <tspan x="166" y="613">and advertisement</tspan>
+            </text>
+            <text id="---Learn-about-diffe" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="358" y="501">-  Learn about different kinds of </tspan>
+                <tspan x="358" y="517">marathon</tspan>
+                <tspan x="358" y="533">-  Check the available date and </tspan>
+                <tspan x="358" y="549">location</tspan>
+                <tspan x="358" y="565">-  Plan to visit</tspan>
+            </text>
+            <text id="---Heading-to-the-ru" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="542" y="501">-  Heading to the running </tspan>
+                <tspan x="542" y="517">location by car, train, or </tspan>
+                <tspan x="542" y="533">plane</tspan>
+            </text>
+            <text id="---Get-the-bib-and-s" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="700" y="501">-  Get the bib and shirts in </tspan>
+                <tspan x="700" y="517">race Expo</tspan>
+                <tspan x="700" y="533">-  Get the map and shuttle </tspan>
+                <tspan x="700" y="549">information</tspan>
+                <tspan x="700" y="565">-  Buy the nutrition, running </tspan>
+                <tspan x="700" y="581">products</tspan>
+                <tspan x="700" y="597"></tspan>
+            </text>
+            <text id="---Set-up-the-pace-b" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="878" y="501">-  Set up the pace before the run</tspan>
+                <tspan x="878" y="517">-  Follow the Mile markers</tspan>
+                <tspan x="878" y="533">-  Check the device to follow the pace</tspan>
+                <tspan x="878" y="549"></tspan>
+                <tspan x="878" y="565"></tspan>
+            </text>
+            <text id="---Check-the-result" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="1108" y="501">-  Check the result</tspan>
+                <tspan x="1108" y="517">-  Get the Medal</tspan>
+                <tspan x="1108" y="533">-  Join post-race party</tspan>
+                <tspan x="1108" y="549">-  Grab the bag</tspan>
+                <tspan x="1108" y="565">-  Take picture</tspan>
+                <tspan x="1108" y="581"></tspan>
+            </text>
+            <text id="---share-the-experie" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="1282" y="501">-  share the experience </tspan>
+                <tspan x="1282" y="517">with others</tspan>
+                <tspan x="1282" y="533">-  Recall the race</tspan>
+                <tspan x="1282" y="549"></tspan>
+            </text>
+            <text id="---Do-I-run-too-fast" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="883" y="682">-  Do I run too fast</tspan>
+                <tspan x="883" y="698">-  What is my heart rate now</tspan>
+                <tspan x="883" y="714">-  When do I need to eat the gel</tspan>
+                <tspan x="883" y="730">-  Where is the next water station</tspan>
+            </text>
+            <text id="---Where-can-I-check" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="1109" y="682">-  Where can I check the result</tspan>
+                <tspan x="1109" y="698">-  Where is the bag drop </tspan>
+                <tspan x="1109" y="714">location</tspan>
+                <tspan x="1109" y="730">-  How to go to the parking lot</tspan>
+            </text>
+            <text id="---Which-race-I-atte" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="1288" y="682">-  Which race I attend </tspan>
+                <tspan x="1288" y="698">before?</tspan>
+                <tspan x="1288" y="714">-  What is my record?</tspan>
+            </text>
+            <text id="---What-kind-of-mara" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="166" y="681.597656">-  What kind of marathon should </tspan>
+                <tspan x="166" y="697.597656">I run</tspan>
+                <tspan x="166" y="713.597656">- How long is the full marathon</tspan>
+                <tspan x="166" y="729.597656">- How long does it take to run a </tspan>
+                <tspan x="166" y="745.597656">full marathon</tspan>
+            </text>
+            <text id="---What-kind-of-mara" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="358" y="682">-  What kind of marathon is the </tspan>
+                <tspan x="358" y="698">best suit for me</tspan>
+                <tspan x="358" y="714">-  What is the race course</tspan>
+                <tspan x="358" y="730">-  which distance of the race </tspan>
+                <tspan x="358" y="746">should I run</tspan>
+                <tspan x="358" y="762">- What is the pace should I run</tspan>
+                <tspan x="358" y="778">- What should I bring to the </tspan>
+                <tspan x="358" y="794">race</tspan>
+            </text>
+            <text id="---Where-is-the-Expo" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="690" y="678">-  Where is the Expo</tspan>
+                <tspan x="690" y="694">-  How to go to start point on </tspan>
+                <tspan x="690" y="710">the race day</tspan>
+                <tspan x="690" y="726">-  Where should I park my car</tspan>
+                <tspan x="690" y="742">-  How many aid station and </tspan>
+                <tspan x="690" y="758">water stop? Where are them</tspan>
+            </text>
+            <text id="--Understand-what-pe" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="166" y="848">- Understand what people are </tspan>
+                <tspan x="166" y="864">looking for</tspan>
+            </text>
+            <text id="--Provide-the-marath" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="358" y="848">- Provide the marathon </tspan>
+                <tspan x="358" y="864">information and common Q&amp;A </tspan>
+                <tspan x="358" y="880">that runners are care about in </tspan>
+                <tspan x="358" y="896">the marathon page</tspan>
+                <tspan x="358" y="912">- Browse other runner’s log get </tspan>
+                <tspan x="358" y="928">an idea about what’s their pace </tspan>
+                <tspan x="358" y="944">in this marathon</tspan>
+            </text>
+            <text id="---Provide-the-cours" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="691" y="848">-  Provide the course map, </tspan>
+                <tspan x="691" y="864">clealy indicate the course, the </tspan>
+                <tspan x="691" y="880">aid stations and the water stops</tspan>
+            </text>
+            <text id="---Track-the-current" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="886" y="848">-  Track the current pace</tspan>
+            </text>
+            <text id="---Provide-the-infor" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="1111" y="848">-  Provide the information</tspan>
+            </text>
+            <text id="---Rate-and-share-th" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="1293" y="848">-  Rate and share the </tspan>
+                <tspan x="1293" y="864">race experience</tspan>
+            </text>
+            <polyline id="Path-2" stroke="#979797" points="140 123 140 103 830.492188 103 830.369905 121.310044"></polyline>
+            <polyline id="Path-2-Copy" stroke="#979797" points="844 123 844 103 1090 103 1089.95643 121.310044"></polyline>
+            <polyline id="Path-2-Copy-2" stroke="#979797" points="1108 123 1108 103 1438.49219 103 1438.43366 121.310044"></polyline>
+            <text id="Before-the-Race-" font-family="ClearSans, Clear Sans" font-size="18" font-weight="normal" fill="#FF8C55">
+                <tspan x="425" y="81">Before the Race </tspan>
+            </text>
+            <text id="During-the-Race" font-family="ClearSans, Clear Sans" font-size="18" font-weight="normal" fill="#FF8C55">
+                <tspan x="907" y="81">During the Race</tspan>
+            </text>
+            <text id="After-the-race" font-family="ClearSans, Clear Sans" font-size="18" font-weight="normal" fill="#FF8C55">
+                <tspan x="1217" y="81">After the race</tspan>
+            </text>
+            <circle id="Oval-7" stroke="#675855" stroke-width="2" stroke-dasharray="7" cx="957.5" cy="303.5" r="72.5"></circle>
+            <circle id="Oval-1-Copy-2" fill="#FF6C55" cx="931" cy="235" r="7"></circle>
+            <circle id="Oval-1-Copy-2" fill="#FF6C55" cx="981" cy="371" r="7"></circle>
+            <path d="M1028.25781,326.617188 C1076.72266,314.96875 1074.75781,272.464844 1107.58984,272.464844 C1140.42188,272.464844 1141.8125,297.992188 1166.26562,297.992188 C1190.71875,297.992188 1170.00586,306.921875 1220.4707,321.953125 C1270.93555,336.984375 1298.74609,310.96875 1330.27539,314.462891 C1342.93898,315.866295 1354.69252,324.344344 1370.30957,326.617188 C1393.57524,330.003181 1413.31113,327.279189 1436.25781,315.873047" id="Path-4" stroke="#675855" stroke-width="2" stroke-dasharray="7"></path>
+            <circle id="Oval-1-Copy-3" fill="#FF6E57" cx="1109" cy="272" r="7"></circle>
+            <circle id="Oval-1-Copy-3" fill="#FF6E57" cx="1199" cy="314" r="7"></circle>
+            <circle id="Oval-1-Copy-4" fill="#FF806C" cx="1434" cy="318" r="7"></circle>
+            <circle id="Oval-1-Copy-5" fill="#FF806C" cx="1329" cy="314" r="7"></circle>
+            <text id="Exit-" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#FF8C55">
+                <tspan x="1185" y="269">Exit </tspan>
+            </text>
+            <text id="Pick-the-car" font-family="ClearSans, Clear Sans" font-size="12" font-weight="normal" fill="#424040">
+                <tspan x="1185" y="285">Pick the car</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

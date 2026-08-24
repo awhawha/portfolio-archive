@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 631.3 466.8" style="enable-background:new 0 0 631.3 466.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F25432;}
+	.st1{fill:#736A6A;}
+	.st2{fill:#E8DFDF;}
+	.st3{fill:#FCF0F0;}
+	.st4{fill:#FA7255;}
+	.st5{fill:none;stroke:url(#SVGID_1_);stroke-width:40;stroke-miterlimit:10;}
+	.st6{font-family:'FranklinGothicURW-Boo';}
+	.st7{font-size:12.7113px;}
+</style>
+<polyline class="st0" points="30.7,185.1 30.7,62.1 126.7,62.1 126.7,185.1 "/>
+<polyline class="st1" points="265.7,185.1 265.7,62.1 362.7,62.1 362.7,185.1 "/>
+<polyline class="st2" points="383.7,185.1 383.7,62.1 480.7,62.1 480.7,185.1 "/>
+<polyline class="st3" points="501.7,185.1 501.7,62.1 599.7,62.1 599.7,185.1 "/>
+<polyline class="st4" points="148.7,185.1 148.7,62.1 244.7,62.1 244.7,185.1 "/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="30.6667" y1="160.8" x2="599.6667" y2="160.8" gradientTransform="matrix(1 0 0 -1 0 475.6)">
+	<stop  offset="0" style="stop-color:#F25432"/>
+	<stop  offset="1" style="stop-color:#FAA694"/>
+</linearGradient>
+<line class="st5" x1="30.7" y1="314.8" x2="599.7" y2="314.8"/>
+<g>
+	<text transform="matrix(1 0 0 1 29.7087 203.2496)" class="st1 st6 st7">CMYK 3,80, 79,0</text>
+	<text transform="matrix(1 0 0 1 29.7087 219.9496)" class="st1 st6 st7">RGB 242, 84, 50</text>
+	<text transform="matrix(1 0 0 1 29.7087 236.7496)" class="st1 st6 st7">#f25432</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 29.7087 355.3976)" class="st1 st6 st7">CMYK 3,80, 79,0</text>
+	<text transform="matrix(1 0 0 1 29.7087 372.0977)" class="st1 st6 st7">RGB 242, 84, 50</text>
+	<text transform="matrix(1 0 0 1 29.7087 388.8976)" class="st1 st6 st7">#f25432</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 502.1852 355.3976)" class="st1 st6 st7">CMYK 0, 46, 35, 0</text>
+	<text transform="matrix(1 0 0 1 502.1852 372.0977)" class="st1 st6 st7">RGB 250, 166, 148</text>
+	<text transform="matrix(1 0 0 1 502.1852 388.8976)" class="st1 st6 st7">#faa694</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 147.987 203.2496)" class="st1 st6 st7">CMYK 0, 69, 61, 0 </text>
+	<text transform="matrix(1 0 0 1 147.987 219.9496)" class="st1 st6 st7">RGB 250, 114, 85</text>
+	<text transform="matrix(1 0 0 1 147.987 236.7496)" class="st1 st6 st7">#fa7255</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 264.9928 203.2496)" class="st1 st6 st7">CMYK 63,58, 54,3</text>
+	<text transform="matrix(1 0 0 1 264.9928 219.9496)" class="st1 st6 st7">RGB 115, 106, 106</text>
+	<text transform="matrix(1 0 0 1 264.9928 236.7496)" class="st1 st6 st7">#736a6a</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 382.0075 203.2496)" class="st1 st6 st7">CMYK 63,58, 54,3</text>
+	<text transform="matrix(1 0 0 1 382.0075 219.9496)" class="st1 st6 st7">RGB 232, 223, 223</text>
+	<text transform="matrix(1 0 0 1 382.0075 236.7496)" class="st1 st6 st7">#736a6a</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 501.5495 203.2496)" class="st1 st6 st7">CMYK 63,58, 54,3</text>
+	<text transform="matrix(1 0 0 1 501.5495 219.9496)" class="st1 st6 st7">RGB 252, 240, 240</text>
+	<text transform="matrix(1 0 0 1 501.5495 236.7496)" class="st1 st6 st7">#fcf0f0</text>
+</g>
+</svg>
